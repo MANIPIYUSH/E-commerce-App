@@ -2,9 +2,9 @@
 
 
 
-## Live-Link
+## Live-Link 👇
 
-https://reactjs-ecommerce-app.vercel.app/
+https://consolebit.netlify.app/
 
 ## Visuals
   ![](./public/assets/ezgif.com-optimize.gif)
